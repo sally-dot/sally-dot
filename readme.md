@@ -9,13 +9,7 @@
 
 **skills**
 
----
-
-<img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/html5-orange?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/html5-orange?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=white"/>
 
 ---
 
