@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/RHEL-red?style=flat&logo=Red Hat&logoColor=white"/>
 
 ---
 
