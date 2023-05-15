@@ -1,17 +1,13 @@
-## Hello I'm Sally Dahye Lee.
+## 😃 안녕하세요 이다혜입니다. 
 
 
-![제목 없음 (1) 2](https://user-images.githubusercontent.com/75000708/212840554-ed290964-0caa-4858-9101-e99b48f9595c.png)
+### 🛠️ SKILLS
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
 
 
-## **skills**
+### 🔧 TOOLS
 
-<img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/html5-orange?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=white"/>
-
----
-
-## **Tool**
-
-<img src="https://img.shields.io/badge/vsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Slack-green?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Trello-blue?style=flat&logo=Trello&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 
